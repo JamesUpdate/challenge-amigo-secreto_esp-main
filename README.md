@@ -48,6 +48,7 @@ challenge-amigo-secreto_esp-main/
 - Solo letras y espacios (incluye tildes y ñ).
 - Al menos 2 letras reales por nombre.
 - No se permiten nombres con letras repetidas exclusivamente (ej. "aaa").
+![alt text](image.png)
 - No se permiten nombres con secuencias inválidas (ej. "asdf", "test").
 - No se permiten nombres repetidos en la lista.
 
