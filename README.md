@@ -2,21 +2,6 @@
 
 ¡Bienvenido al proyecto **Amigo Secreto**! Esta aplicación te ayuda a organizar el clásico juego de intercambio de regalos de manera sencilla, segura y divertida.
 
-## 🚀 Estructura del Proyecto
-
-```
-challenge-amigo-secreto_esp-main/
-├── src/
-│   ├── components/
-│   ├── utils/
-│   └── App.js
-├── public/
-│   └── index.html
-├── README.md
-├── package.json
-└── LICENSE
-```
-
 ## 🧑‍💻 Instalación y Uso
 
 1. Clona el repositorio:
@@ -32,6 +17,23 @@ challenge-amigo-secreto_esp-main/
     npm start
     ```
 
+
+## 🚀 Estructura del Proyecto
+
+```
+challenge-amigo-secreto_esp-main/
+├── src/
+│   ├── components/
+│   ├── utils/
+│   └── App.js
+├── public/
+│   └── index.html
+├── README.md
+├── package.json
+└── LICENSE
+```
+
+
 ## ✨ Características
 
 - Sorteo automático y seguro de participantes.
@@ -39,6 +41,15 @@ challenge-amigo-secreto_esp-main/
 - Notificaciones personalizables.
 - Soporte para múltiples idiomas.
 - Historial de sorteos y persistencia de datos.
+
+## 🚀 Validaciones de los nombres
+
+- No se permiten entradas vacías.
+- Solo letras y espacios (incluye tildes y ñ).
+- Al menos 2 letras reales por nombre.
+- No se permiten nombres con letras repetidas exclusivamente (ej. "aaa").
+- No se permiten nombres con secuencias inválidas (ej. "asdf", "test").
+- No se permiten nombres repetidos en la lista.
 
 
 
