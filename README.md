@@ -1,6 +1,7 @@
 # Challenge Amigo Secreto (Español)
 
 ¡Bienvenido al proyecto **Amigo Secreto**! Esta aplicación te ayuda a organizar el clásico juego de intercambio de regalos de manera sencilla, segura y divertida.
+![alt text](image-2.png)
 
 ## 🧑‍💻 Instalación y Uso
 
@@ -36,6 +37,8 @@ challenge-amigo-secreto_esp-main/
 
 ## ✨ Características
 
+- Debe ingresar al menos dos nombres para sortear
+![alt text](image-3.png)
 - Sorteo automático y seguro de participantes.
 - Interfaz intuitiva y adaptable.
 - Notificaciones personalizables.
@@ -45,6 +48,7 @@ challenge-amigo-secreto_esp-main/
 ## 🚀 Validaciones de los nombres
 
 - No se permiten entradas vacías.
+![alt text](image-1.png)
 - Solo letras y espacios (incluye tildes y ñ).
 - Al menos 2 letras reales por nombre.
 - No se permiten nombres con letras repetidas exclusivamente (ej. "aaa").
