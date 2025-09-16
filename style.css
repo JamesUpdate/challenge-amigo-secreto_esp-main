@@ -160,3 +160,11 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+.footer {
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.9rem;
+    color: #000000;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
